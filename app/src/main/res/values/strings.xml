@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lorem_text">Hello, I am an Android Developer by passion and profession. Certainly, I am not an Omniscient. But I am always eager to learn as much as possible. I strongly believe that Apps can make life much easier and can provide solution to day to day\'s problems. Some successful codes, a bit of chit chat and lots of coffee completes my day.     </string>
+    <string name="job_name">Android App Developer</string>
+    <string name="lorem_text2">Having enrolled in Distributed Software Systems at Tu-Darmstadt,Germany gave me the opportunity to gain in-depth knowledge of Computer Systems. The course also provided me an exposure and better understanding of how to approach for System issues.   </string>
+    <string name="name">Rajan Singh</string>
+    <string name="current_job_post">Masters in Informatik</string>
+    <string name="diploma">Computer Science Diploma</string>
+    <string name="lorem_text3">I did my Bachelor in Computer Science from Bhopal,India. The course which cleared my fundamentals of Computer Applications. Some really great learning experiences, which motivated me to take up Master course.</string>
+    <string name="lorem_text4">In my last job, I worked as Android Developer in Pass-Consulting, Aschaffenburg, Germany. I got the opportunity to work with a great team on development of app, based on the concept of Bla Bla car.</string>
+    <string name="lorem_text5">I got the opportunity to work as Android and Amazon Alexa Skill Developer with AGT International, Darmstadt, Germany. I got the opportunity to work independently on the projects. The projects consisted of Video Streaming Android Applications. Development of Alexa skill for each projects and integrating the Skills and Apps together. In a way that it can be played on Fire-Tv as well as Amazon Cube </string>
+    <string name="lorem_text6">Just after my Graduation, I got the offer to work with ARC Telecom, Bhopal, India as System Engineer. I was responsible for maintaining Company\'s software as well as website. </string>
+    <string name="lorem_text7">In my spare time, I love to try different things, Be it for personal gain or as a gratitude towards the society. Such as: </string>
+    <string name="lorem_text8">Some volunteer work of teaching to poor kids under the Dr. Reddy Foundation. Honestly, One of the best experience of my life. Hope to continue in the future as well.</string>
+    <string name="lorem_text10">Represented my School, College as well as my state(Zone) in Badminton and Chess.</string> <string name="lorem_text9">Scrum Master Certification - An amazing experience of learning the concept of Agile work environment in real life based scenario. /n Bloomberg Aptitude Test - Answering questionnaires of different fields was an amazing experience and nice for boosting self confidence.  </string>
+    <string name="lorem_text11">Here are few projects developed as a part of my learning experience. </string>
+    <string name="lorem_text12"> You can find the details of the project on my Github repository. "https://github.com/rajs25" </string>
+
+</resources>
